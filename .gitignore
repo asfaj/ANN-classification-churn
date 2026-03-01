@@ -1,0 +1,9 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+*.pkl
+model.h5
+.streamlit/
